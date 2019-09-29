@@ -6,7 +6,6 @@
     <description>Recent content in Posts on KidzHive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Sep 2019 22:01:03 +0530</lastBuildDate>
     
 	<atom:link href="https://kidshive.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +13,12 @@
     <item>
       <title>Privacy Policy</title>
       <link>https://kidshive.github.io/posts/privacy-policy/</link>
-      <pubDate>Sun, 29 Sep 2019 22:01:03 +0530</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kidshive.github.io/posts/privacy-policy/</guid>
-      <description>Privacy Policy</description>
+      <description>KidzHive Solutions built the KidzHive Video app as a Free app. This SERVICE is provided by KidzHive Solutions at no cost and is intended for use as is.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.</description>
     </item>
     
   </channel>
