@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KidzHive</title>
-    <link>https://kidshive.github.io/</link>
-    <description>Recent content on KidzHive</description>
+    <title>Posts on KidzHive</title>
+    <link>https://kidshive.github.io/posts/</link>
+    <description>Recent content in Posts on KidzHive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Sep 2019 22:01:03 +0530</lastBuildDate>
     
-	<atom:link href="https://kidshive.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kidshive.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
